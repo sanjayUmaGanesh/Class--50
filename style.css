@@ -1,0 +1,30 @@
+
+ h1 {
+    color: brown;
+}
+ * {
+    border: solid;
+ }
+ .header{
+     background-color: grey;
+     display: flex;
+     flex-direction: column;
+ }
+ .Text{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+ }
+ .social{
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+ }       
+ .grid{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: start;
+ }
+ p.h2{
+     text-align: center;
+ }
